@@ -1,6 +1,6 @@
 import streamlit as st
 st.set_page_config(page_title='Demon Slayer')
-st.header("メインリード")
+st.header("鬼滅の刃")
 col1,col2,col3=st.columns(3)
 with col1:
   st.subheader("竈門 炭治郎")
