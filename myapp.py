@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title='Demon Slayer')
 st.header("Main Lead")
-col1.col2=st.columns(2)
+col1,col2=st.columns(2)
 with col1:
   st.subheader("Tanjiro Kamado")
   st.image("./Tanjiro.jpg", caption="Tanjiro Kamado", width=300,use_column_width=True)
