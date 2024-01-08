@@ -8,7 +8,7 @@ with col1:
   st.write("Tanjiro Kamado is a Demon Slayer")
 with col2:
   st.subheader("Nezuko Kamado")
-  st.image("./nejuko.jpg", caption="Tanjiro Kamado", width=300,use_column_width=True)
+  st.image("./nejuko.jpg", caption="Nejuko Kamado", width=300,use_column_width=True)
   st.write("Nezuko Kamado is a Demon")
         
           
